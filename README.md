@@ -10,4 +10,4 @@ Sign my guestbook and leave a message!
 [Browse all entries →](https://github.com/moscovium-mc/guestbook/issues?q=is%3Aissue+is%3Aclosed)
 
 ---
-*Feel free to be creative, kind, and respectful.*
+*Please feel free to be creative, kind, and respectful.*
