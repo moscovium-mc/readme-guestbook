@@ -11,19 +11,41 @@ HEADERS = {
     'Accept': 'application/vnd.github.v3+json'
 }
 
-def fetch_closed_issues():
-    """Fetch all closed issues from the repository"""
-    url = f'https://api.github.com/repos/{REPO}/issues'
-    params = {
-        'state': 'closed',
-        'per_page': 100,
-        'sort': 'created',
-        'direction': 'desc'
-    }
+def fetch_all_closed_issues():
+    """Fetch all closed issues from the repository with pagination"""
+    all_issues = []
+    page = 1
     
-    response = requests.get(url, headers=HEADERS, params=params)
-    response.raise_for_status()
-    return response.json()
+    while True:
+        url = f'https://api.github.com/repos/{REPO}/issues'
+        params = {
+            'state': 'closed',
+            'per_page': 100,
+            'page': page,
+            'sort': 'created',
+            'direction': 'desc'
+        }
+        
+        response = requests.get(url, headers=HEADERS, params=params)
+        response.raise_for_status()
+        issues = response.json()
+        
+        if not issues:
+            break
+        
+        # Filter out pull requests
+        issues = [issue for issue in issues if 'pull_request' not in issue]
+        all_issues.extend(issues)
+        
+        print(f"Fetched page {page}: {len(issues)} issues")
+        
+        # Check if there are more pages
+        if len(issues) < 100:
+            break
+            
+        page += 1
+    
+    return all_issues
 
 def format_date(date_str):
     """Format ISO date to 'Dec 1, 2025'"""
@@ -35,7 +57,6 @@ def format_body(body):
     if not body or body.strip() == '':
         return '> Leave your message here!'
     
-    # Split by lines and add > prefix
     lines = body.strip().split('\n')
     formatted_lines = []
     
@@ -49,10 +70,9 @@ def format_body(body):
 
 def generate_guestbook_table(issues):
     """Generate the guestbook table HTML"""
-    # Show ALL entries
     table_rows = []
     
-    for idx, issue in enumerate(issues, 1):
+    for issue in issues:
         username = issue['user']['login']
         created_at = format_date(issue['created_at'])
         body = format_body(issue['body'])
@@ -61,17 +81,14 @@ def generate_guestbook_table(issues):
         row = f'''<tr>
 <td width="80px" align="center"><strong>#{issue_number}</strong></td>
 <td>
-
 **[{username}](https://github.com/{username})** • *{created_at}*
 
 {body}
-
 </td>
 </tr>'''
         
         table_rows.append(row)
     
-    # Join rows with separators
     separator = '<tr><td colspan="2"><hr></td></tr>'
     table_content = f'\n{separator}\n'.join(table_rows)
     
@@ -84,7 +101,6 @@ def update_readme(guestbook_content):
     with open('README.md', 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Replace content between markers
     pattern = r'<!-- GUESTBOOK:START -->.*?<!-- GUESTBOOK:END -->'
     replacement = f'<!-- GUESTBOOK:START -->\n{guestbook_content}\n<!-- GUESTBOOK:END -->'
     
@@ -96,14 +112,14 @@ def update_readme(guestbook_content):
     print("Guestbook updated successfully!")
 
 def main():
-    print("Fetching closed issues...")
-    issues = fetch_closed_issues()
+    print("Fetching all closed issues...")
+    issues = fetch_all_closed_issues()
     
     if not issues:
         print("No closed issues found")
         return
     
-    print(f"Found {len(issues)} closed issues")
+    print(f"Found {len(issues)} total closed issues")
     print("Generating guestbook table...")
     
     guestbook_content = generate_guestbook_table(issues)
