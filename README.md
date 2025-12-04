@@ -23,7 +23,7 @@ Leave your mark. Drop a message, share your thoughts, or say hi.
 
 ---
 
-## Recent Signatures
+## Signatures
 
 <!-- GUESTBOOK:START -->
 <table>
@@ -99,17 +99,6 @@ Leave your mark. Drop a message, share your thoughts, or say hi.
 </tr>
 </table>
 <!-- GUESTBOOK:END -->
-
----
-
-<details>
-<summary><b>Archive • View Older Entries</b></summary>
-
-<br>
-
-> **[Browse complete archive →](https://github.com/moscovium-mc/guestbook/issues?q=is%3Aissue+is%3Aclosed)**
-
-</details>
 
 ---
 
