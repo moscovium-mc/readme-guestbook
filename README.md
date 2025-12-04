@@ -19,7 +19,7 @@ Leave your mark. Drop a message, share your thoughts, or say hi.
 > **Guidelines:** Be creative, share your thoughts, say hello. Keep it respectful—no spam or malicious content.
 
 > [!TIP]
-> This guestbook automatically updates when you close an issue. Your signature will appear within minutes!
+> This guestbook automatically updates when an issue is closed.
 
 ---
 
