@@ -6,6 +6,7 @@
 ![Status](https://img.shields.io/badge/status-open-success)
 
 A guestbook for the infosec community - researchers, contributors, and friends who make this space better. 
+
 Sign below.
 
 <br>
