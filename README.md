@@ -134,6 +134,30 @@ Sign below.
 
 ---
 
+<details>
+<summary><b>In Memory - Decompiled DGS Eternal</b></summary>
+
+<br>
+
+> For those who contributed to our community but can no longer sign.
+> Your code, your work, your friendship - never forgotten.
+
+**kayos/yunginnanet** • **killabit** • **c0mrade** • **sd1** • **smurda** • **brand0n** • **adrian** • **lxuke** • **justincredible** • **toyo4321** • **olaf** • **rj2** • **ib** • **ackflags** • **christophermichael** • **rawkz** • **maru** • **didi** • **anti** • **mistressj** • **bugbee** • **chaylz** • **dullspace** • **irrvi** • **dax** • **troubled** • **triplesix** • **adderall** • **killakalli** • **coolio (both of them)** • **kaleena**
+
+*We love and miss you dearly.*
+
+</details>
+
+---
+
+<div align="center">
+
+*Thanks for stopping by. - stax*
+
+<sub>Maintained by <a href="https://github.com/moscovium-mc">@moscovium-mc</a></sub>
+
+</div>
+
 <div align="center">
 
 *Thanks for stopping by. - stax*
