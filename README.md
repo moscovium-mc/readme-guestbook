@@ -28,59 +28,14 @@ Leave your mark. Drop a message, share your thoughts, or say hi.
 <!-- GUESTBOOK:START -->
 <table>
 <tr>
-<td width="80px" align="center"><strong>#1</strong></td>
+<td width="80px" align="center"><strong>#7</strong></td>
 <td>
 
-**[stanzip](https://github.com/stanzip)** • *Dec 1, 2025*
+**[pgpdialect](https://github.com/pgpdialect)** • *Dec 04, 2025*
 
-> STANZI wuz HERE DG4E
-
-</td>
-</tr>
-<tr><td colspan="2"><hr></td></tr>
-<tr>
-<td width="80px" align="center"><strong>#2</strong></td>
-<td>
-
-**[meany](https://github.com/meany)** • *Dec 1, 2025*
-
-> Leave your message here!
-
-</td>
-</tr>
-<tr><td colspan="2"><hr></td></tr>
-<tr>
-<td width="80px" align="center"><strong>#3</strong></td>
-<td>
-
-**[knightingalelmao](https://github.com/knightingalelmao)** • *Dec 2, 2025*
-
-> Praise to the spam god for bringing all of us nerds together! Happy Holidays Stax! <3
-
-</td>
-</tr>
-<tr><td colspan="2"><hr></td></tr>
-<tr>
-<td width="80px" align="center"><strong>#4</strong></td>
-<td>
-
-**[djent](https://github.com/djent)** • *Dec 2, 2025*
-
-> hi
-> do not close this issue
-
-</td>
-</tr>
-<tr><td colspan="2"><hr></td></tr>
-<tr>
-<td width="80px" align="center"><strong>#5</strong></td>
-<td>
-
-**[mimicorns](https://github.com/mimicorns)** • *Dec 2, 2025*
-
-> mimi says hi stax mimi first ever github issue ever made she hopes you have a wonderful day smile emoji lots of love from mimi
+> "Stax if you could keep the gay to a minimal that would be highly appreciated" -T6 (RIP DG4E)
 > 
-> mimi says DG4E and also she says bye bye
+> hello i am 108308 also known as mr fancy and a few other names signing this guest book, i would like to say stax has been gay since 1999 and yeah that's pretty much it, holla, dg4e
 
 </td>
 </tr>
@@ -89,11 +44,72 @@ Leave your mark. Drop a message, share your thoughts, or say hi.
 <td width="80px" align="center"><strong>#6</strong></td>
 <td>
 
-**[ghostsec420](https://github.com/ghostsec420)** • *Dec 3, 2025*
+**[ghostsec420](https://github.com/ghostsec420)** • *Dec 03, 2025*
 
 > Sebastian was here
 > 
-> **#GhostSec** *We Run Shit Cause We Can*
+> #GhostSec We Run Shit Cause We Can
+
+</td>
+</tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr>
+<td width="80px" align="center"><strong>#5</strong></td>
+<td>
+
+**[mimicorns](https://github.com/mimicorns)** • *Dec 03, 2025*
+
+> mimi says hi stax mimi first ever github issue ever made 
+> she hopes you have a wonderful day smile emoji lots of love from mimi 
+> 
+> mimi says **DG4E** and also she says bye bye
+
+</td>
+</tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr>
+<td width="80px" align="center"><strong>#4</strong></td>
+<td>
+
+**[djent](https://github.com/djent)** • *Dec 03, 2025*
+
+> ### **hi**
+> 
+> ```do not close this issue```
+
+</td>
+</tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr>
+<td width="80px" align="center"><strong>#3</strong></td>
+<td>
+
+**[knightingalelmao](https://github.com/knightingalelmao)** • *Dec 02, 2025*
+
+> Praise to the spam god for bringing all of us nerds together! Happy Holidays Stax! <3
+
+</td>
+</tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr>
+<td width="80px" align="center"><strong>#2</strong></td>
+<td>
+
+**[meany](https://github.com/meany)** • *Dec 01, 2025*
+
+> Leave your message here!
+
+</td>
+</tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr>
+<td width="80px" align="center"><strong>#1</strong></td>
+<td>
+
+**[stanzip](https://github.com/stanzip)** • *Dec 01, 2025*
+
+> STANZI wuz HERE
+> DG4E
 
 </td>
 </tr>
