@@ -139,7 +139,7 @@ Sign below.
 
 <br>
 
-> For those who contributed to our community but can no longer sign.
+> For those who contributed to the infosec community but can no longer sign.
 > Your code, your work, your friendship - never forgotten.
 
 **kayos/yunginnanet** • **killabit** • **c0mrade** • **sd1** • **smurda** • **brand0n** • **adrian** • **lxuke** • **justincredible** • **toyo4321** • **olaf** • **rj2** • **ib** • **ackflags** • **christophermichael** • **rawkz** • **maru** • **didi** • **anti** • **mistressj** • **bugbee** • **chaylz** • **dullspace** • **irrvi** • **dax** • **troubled** • **triplesix** • **adderall** • **killakalli** • **coolio (both of them)** • **kaleena**
