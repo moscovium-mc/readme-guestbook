@@ -36,7 +36,7 @@ Sign below.
 <td width="80px" align="center"><strong>#8</strong></td>
 <td>
 
-**[BashBunnyy](https://github.com/BashBunnyy)** • *Dec 04, 2025*
+<strong><a href="https://github.com/BashBunnyy">@BashBunnyy</a></strong> • <em>Dec 04, 2025</em>
 
 > Hello from Sysko (sometimes Bunny)!
 > Wishing everyone here an awesome day!
@@ -47,7 +47,7 @@ Sign below.
 <td width="80px" align="center"><strong>#7</strong></td>
 <td>
 
-**[pgpdialect](https://github.com/pgpdialect)** • *Dec 04, 2025*
+<strong><a href="https://github.com/pgpdialect">@pgpdialect</a></strong> • <em>Dec 04, 2025</em>
 
 > "Stax if you could keep the gay to a minimal that would be highly appreciated" -T6 (RIP DG4E)
 > 
@@ -59,7 +59,7 @@ Sign below.
 <td width="80px" align="center"><strong>#6</strong></td>
 <td>
 
-**[ghostsec420](https://github.com/ghostsec420)** • *Dec 03, 2025*
+<strong><a href="https://github.com/ghostsec420">@ghostsec420</a></strong> • <em>Dec 03, 2025</em>
 
 > Sebastian was here
 > 
@@ -71,7 +71,7 @@ Sign below.
 <td width="80px" align="center"><strong>#5</strong></td>
 <td>
 
-**[mimicorns](https://github.com/mimicorns)** • *Dec 03, 2025*
+<strong><a href="https://github.com/mimicorns">@mimicorns</a></strong> • <em>Dec 03, 2025</em>
 
 > mimi says hi stax mimi first ever github issue ever made 
 > she hopes you have a wonderful day smile emoji lots of love from mimi 
@@ -84,7 +84,7 @@ Sign below.
 <td width="80px" align="center"><strong>#4</strong></td>
 <td>
 
-**[djent](https://github.com/djent)** • *Dec 03, 2025*
+<strong><a href="https://github.com/djent">@djent</a></strong> • <em>Dec 03, 2025</em>
 
 > ### **hi**
 > 
@@ -96,7 +96,7 @@ Sign below.
 <td width="80px" align="center"><strong>#3</strong></td>
 <td>
 
-**[knightingalelmao](https://github.com/knightingalelmao)** • *Dec 02, 2025*
+<strong><a href="https://github.com/knightingalelmao">@knightingalelmao</a></strong> • <em>Dec 02, 2025</em>
 
 > Praise to the spam god for bringing all of us nerds together! Happy Holidays Stax! <3
 </td>
@@ -106,7 +106,7 @@ Sign below.
 <td width="80px" align="center"><strong>#2</strong></td>
 <td>
 
-**[meany](https://github.com/meany)** • *Dec 01, 2025*
+<strong><a href="https://github.com/meany">@meany</a></strong> • <em>Dec 01, 2025</em>
 
 > Leave your message here!
 </td>
@@ -116,7 +116,7 @@ Sign below.
 <td width="80px" align="center"><strong>#1</strong></td>
 <td>
 
-**[stanzip](https://github.com/stanzip)** • *Dec 01, 2025*
+<strong><a href="https://github.com/stanzip">@stanzip</a></strong> • <em>Dec 01, 2025</em>
 
 > STANZI wuz HERE
 > DG4E
