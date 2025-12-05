@@ -82,7 +82,7 @@ def generate_guestbook_table(issues):
 <td width="80px" align="center"><strong>#{issue_number}</strong></td>
 <td>
 
-**[{username}](https://github.com/{username})** • *{created_at}*
+<strong><a href="https://github.com/{username}">@{username}</a></strong> • <em>{created_at}</em>
 
 {body}
 </td>
