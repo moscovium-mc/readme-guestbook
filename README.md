@@ -35,6 +35,7 @@ Sign below.
 <tr>
 <td width="80px" align="center"><strong>#8</strong></td>
 <td>
+
 **[BashBunnyy](https://github.com/BashBunnyy)** • *Dec 04, 2025*
 
 > Hello from Sysko (sometimes Bunny)!
@@ -45,6 +46,7 @@ Sign below.
 <tr>
 <td width="80px" align="center"><strong>#7</strong></td>
 <td>
+
 **[pgpdialect](https://github.com/pgpdialect)** • *Dec 04, 2025*
 
 > "Stax if you could keep the gay to a minimal that would be highly appreciated" -T6 (RIP DG4E)
@@ -56,6 +58,7 @@ Sign below.
 <tr>
 <td width="80px" align="center"><strong>#6</strong></td>
 <td>
+
 **[ghostsec420](https://github.com/ghostsec420)** • *Dec 03, 2025*
 
 > Sebastian was here
@@ -67,6 +70,7 @@ Sign below.
 <tr>
 <td width="80px" align="center"><strong>#5</strong></td>
 <td>
+
 **[mimicorns](https://github.com/mimicorns)** • *Dec 03, 2025*
 
 > mimi says hi stax mimi first ever github issue ever made 
@@ -79,6 +83,7 @@ Sign below.
 <tr>
 <td width="80px" align="center"><strong>#4</strong></td>
 <td>
+
 **[djent](https://github.com/djent)** • *Dec 03, 2025*
 
 > ### **hi**
@@ -90,6 +95,7 @@ Sign below.
 <tr>
 <td width="80px" align="center"><strong>#3</strong></td>
 <td>
+
 **[knightingalelmao](https://github.com/knightingalelmao)** • *Dec 02, 2025*
 
 > Praise to the spam god for bringing all of us nerds together! Happy Holidays Stax! <3
@@ -99,6 +105,7 @@ Sign below.
 <tr>
 <td width="80px" align="center"><strong>#2</strong></td>
 <td>
+
 **[meany](https://github.com/meany)** • *Dec 01, 2025*
 
 > Leave your message here!
@@ -108,6 +115,7 @@ Sign below.
 <tr>
 <td width="80px" align="center"><strong>#1</strong></td>
 <td>
+
 **[stanzip](https://github.com/stanzip)** • *Dec 01, 2025*
 
 > STANZI wuz HERE
