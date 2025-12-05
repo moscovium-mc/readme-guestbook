@@ -37,7 +37,7 @@ Sign below.
 
 <table>
 <tr>
-<td width="80px" align="center"><strong>#8</strong></td>
+<td width="80px" align="center"><strong>#1</strong><br><sub>Issue #8</sub></td>
 <td>
 
 <strong><a href="https://github.com/BashBunnyy">@BashBunnyy</a></strong> • <em>Dec 04, 2025</em>
@@ -48,7 +48,7 @@ Sign below.
 </tr>
 <tr><td colspan="2"><hr></td></tr>
 <tr>
-<td width="80px" align="center"><strong>#7</strong></td>
+<td width="80px" align="center"><strong>#2</strong><br><sub>Issue #7</sub></td>
 <td>
 
 <strong><a href="https://github.com/pgpdialect">@pgpdialect</a></strong> • <em>Dec 04, 2025</em>
@@ -60,7 +60,7 @@ Sign below.
 </tr>
 <tr><td colspan="2"><hr></td></tr>
 <tr>
-<td width="80px" align="center"><strong>#6</strong></td>
+<td width="80px" align="center"><strong>#3</strong><br><sub>Issue #6</sub></td>
 <td>
 
 <strong><a href="https://github.com/ghostsec420">@ghostsec420</a></strong> • <em>Dec 03, 2025</em>
@@ -72,7 +72,7 @@ Sign below.
 </tr>
 <tr><td colspan="2"><hr></td></tr>
 <tr>
-<td width="80px" align="center"><strong>#5</strong></td>
+<td width="80px" align="center"><strong>#4</strong><br><sub>Issue #5</sub></td>
 <td>
 
 <strong><a href="https://github.com/mimicorns">@mimicorns</a></strong> • <em>Dec 03, 2025</em>
@@ -85,7 +85,7 @@ Sign below.
 </tr>
 <tr><td colspan="2"><hr></td></tr>
 <tr>
-<td width="80px" align="center"><strong>#4</strong></td>
+<td width="80px" align="center"><strong>#5</strong><br><sub>Issue #4</sub></td>
 <td>
 
 <strong><a href="https://github.com/djent">@djent</a></strong> • <em>Dec 03, 2025</em>
@@ -97,7 +97,7 @@ Sign below.
 </tr>
 <tr><td colspan="2"><hr></td></tr>
 <tr>
-<td width="80px" align="center"><strong>#3</strong></td>
+<td width="80px" align="center"><strong>#6</strong><br><sub>Issue #3</sub></td>
 <td>
 
 <strong><a href="https://github.com/knightingalelmao">@knightingalelmao</a></strong> • <em>Dec 02, 2025</em>
@@ -107,7 +107,7 @@ Sign below.
 </tr>
 <tr><td colspan="2"><hr></td></tr>
 <tr>
-<td width="80px" align="center"><strong>#2</strong></td>
+<td width="80px" align="center"><strong>#7</strong><br><sub>Issue #2</sub></td>
 <td>
 
 <strong><a href="https://github.com/meany">@meany</a></strong> • <em>Dec 01, 2025</em>
@@ -117,7 +117,7 @@ Sign below.
 </tr>
 <tr><td colspan="2"><hr></td></tr>
 <tr>
-<td width="80px" align="center"><strong>#1</strong></td>
+<td width="80px" align="center"><strong>#8</strong><br><sub>Issue #1</sub></td>
 <td>
 
 <strong><a href="https://github.com/stanzip">@stanzip</a></strong> • <em>Dec 01, 2025</em>
